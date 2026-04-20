@@ -113,12 +113,7 @@ function updateStats() {
 }
 
 function setLoadingState(message, disableStart) {
-  const statusEl = document.getElementById("loadStatus");
   const startBtn = document.getElementById("startBtn");
-
-  if (statusEl) {
-    statusEl.textContent = message;
-  }
 
   if (startBtn) {
     startBtn.disabled = disableStart;
