@@ -54,6 +54,12 @@ body {
   gap: 14px;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
 .logo-wrapper {
   display: flex;
   align-items: center;
@@ -190,6 +196,12 @@ body {
   display: flex;
   justify-content: flex-start;
   margin-bottom: 14px;
+}
+
+.quiz-nav-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .quiz-topbar {
@@ -361,6 +373,10 @@ body.quiz-active #quizPanel {
   .header-meta {
     flex-direction: column;
     justify-content: center;
+  }
+
+  .header-actions {
+    flex-direction: column;
   }
 
   .logo-wrapper {
