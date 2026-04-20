@@ -1,0 +1,392 @@
+[
+  {
+    "id": 20,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA administracinės atsakomybės principas?",
+    "options": [
+      "Nekaltumo prezumpcija",
+      "Atsakomybės proporcingumas",
+      "Žmogaus neliečiamumas",
+      "Baudos neišvengiamumo principas"
+    ],
+    "correct": 3,
+    "explanation": "Administracinės atsakomybės principai yra šeši: atsakomybės teisėtumas, žmogaus neliečiamumas, asmenų lygybė, nekaltumo prezumpcija, proporcingumas ir teisingumas. Baudos neišvengiamumo principas šiame sąraše nėra."
+  },
+  {
+    "id": 45,
+    "category": "Baudžiamoji teisė",
+    "question": "Asmuo padarė nusikaltimą 2021 m. Vėliau priimtas naujas, baudžiamumą griežtinantis įstatymas. Koks įstatymas taikomas priimant nuosprendį?",
+    "options": [
+      "Naujasis griežtinantis įstatymas kaip vėliau priimtas",
+      "Palankesnis iš abiejų įstatymų teismo nuožiūra",
+      "Įstatymas, galiojęs 2021 m. veikos padarymo metu",
+      "Naujasis įstatymas, nes jis atspindi dabartinę baudžiamąją politiką"
+    ],
+    "correct": 2,
+    "explanation": "Griežtinantis baudžiamasis įstatymas neturi grįžtamosios galios, todėl taikomas veikos padarymo metu galiojęs įstatymas."
+  },
+  {
+    "id": 16,
+    "category": "Baudžiamojo proceso teisė",
+    "question": "Kaip elgiamasi baudžiamajame procese su asmeniu, turinčiu diplomatinį imunitetą?",
+    "options": [
+      "Tokie asmenys negali būti sulaikyti ar suimti; proceso veiksmai atliekami tik jų sutikimu",
+      "Diplomatinis imunitetas netaikomas baudžiamajame procese, jei asmuo įtariamas sunkiu nusikaltimu",
+      "Tokie asmenys gali būti sulaikyti, bet negali būti apklausiami be ambasados atstovo",
+      "Jiems taikomas toks pat procesas, tik reikalingas generalinio prokuroro leidimas"
+    ],
+    "correct": 0,
+    "explanation": "Asmenys, naudojantys diplomatinį imunitetą pagal tarptautinės teisės normas, negali būti sulaikyti ar suimti; proceso veiksmai su jais atliekami tik jų sutikimu arba prašymu."
+  },
+  {
+    "id": 10,
+    "category": "Civilinė teisė",
+    "question": "Kokie yra sutarčių vykdymo principai?",
+    "options": [
+      "Šalys privalo vykdyti sutartį tinkamai ir sąžiningai; bendradarbiavimas ir kooperavimasis nėra sutarties vykdymo principai.",
+      "Šalys privalo vykdyti sutartį sąžiningai ir tinkamai, bei bendradarbiauti ir kooperuotis.",
+      "Lietuvos Respublikos Civilinis kodeksas jokių sutarčių vykdymo principų nenustato.",
+      "Šalys privalo vykdant sutartį bendradarbiauti ir kooperuotis, o ar sutartis vykdoma tinkamai turi konstatuoti teismas."
+    ],
+    "correct": 1,
+    "explanation": "CK 6.38 str. 1 d. ir 6.256 str. 1 d.: šalys privalo vykdyti sutartį sąžiningai, tinkamai, bendradarbiauti ir kooperuotis."
+  },
+  {
+    "id": 8,
+    "category": "Civilinis procesas",
+    "question": "UAB 'Mindaugo transportas', esanti Kaune, nusprendė inicijuoti įmonei bankroto bylą. Kuriam teismui kreiptis?",
+    "options": [
+      "Kauno apylinkės teismui, nes visos bankroto bylos teismingos apylinkės teismui",
+      "Kauno apygardos teismui",
+      "Administraciniam teismui, nes keliamas įmonės administravimo klausimas",
+      "Vilniaus apygardos teismui kaip pagrindiniam verslo teismui"
+    ],
+    "correct": 1,
+    "explanation": "Juridinių asmenų bankroto bylos pagal CPK 27 str. teismingos apygardos teismui."
+  },
+  {
+    "id": 21,
+    "category": "Darbo teisė",
+    "question": "Koks laikotarpis pagal Darbo kodeksą laikomas nakties laiku?",
+    "options": [
+      "Nuo 21:00 iki 06:00",
+      "Nuo 22:00 iki 06:00",
+      "Nuo 23:00 iki 07:00",
+      "Nuo 22:00 iki 07:00"
+    ],
+    "correct": 1,
+    "explanation": "Nakties laikas pagal DK yra laikotarpis nuo 22:00 iki 06:00 valandos."
+  },
+  {
+    "id": 12,
+    "category": "Egzaminų klausimai",
+    "question": "Kas teisme duoda priesaiką?",
+    "options": [
+      "Teisėjas",
+      "Advokatas",
+      "Vertėjas",
+      "Prokuroras"
+    ],
+    "correct": 2,
+    "explanation": "Teisme prisiekia vertėjas."
+  },
+  {
+    "id": 21,
+    "category": "Europos Sąjungos teisė",
+    "question": "Reglamentas ES teisėje geriausiai apibūdinamas kaip aktas, kuris:",
+    "options": [
+      "Yra tiesiogiai taikomas visose valstybėse narėse ir privalomas visa apimtimi",
+      "Privalomas tik rezultato atžvilgiu ir palieka valstybėms formos bei priemonių pasirinkimą",
+      "Privalomas tik konkrečiam adresatui, kuriam skirtas",
+      "Neturi privalomosios galios ir tik rekomenduoja elgesį"
+    ],
+    "correct": 0,
+    "explanation": "Tai klasikinis reglamento požymis, papildantis koliokviumo medžiagą."
+  },
+  {
+    "id": 24,
+    "category": "Ikiteisminis tyrimas",
+    "question": "Tik teismas gali skirti:",
+    "options": [
+      "Dokumentų paėmimą",
+      "Specialios teisės sustabdymą",
+      "Intensyvią priežiūrą",
+      "Apklausą"
+    ],
+    "correct": 1,
+    "explanation": "Ši priemonė skiriama tik teismo."
+  },
+  {
+    "id": 1,
+    "category": "Juridinių dokumentų praktika",
+    "question": "Juridinis dokumentas yra:",
+    "options": [
+      "Dokumentas, sukuriantis, pakeičiantis ar patvirtinantis teisinius santykius",
+      "Bet koks tekstas",
+      "Tik laiškas",
+      "Tik teismo sprendimas"
+    ],
+    "correct": 0,
+    "explanation": "Juridiniai dokumentai turi teisinę reikšmę."
+  },
+  {
+    "id": 19,
+    "category": "Korupcijos kontrolė",
+    "question": "Korupcijos prevencijos subjektai:",
+    "options": [
+      "Tik valstybės institucijos ir pareigūnai",
+      "Visi asmenys",
+      "Tik specializuotos antikorupcinės institucijos",
+      "Tik teisėsaugos ir prokuratūros institucijos"
+    ],
+    "correct": 1,
+    "explanation": "Prevencijoje dalyvauja visi."
+  },
+  {
+    "id": 17,
+    "category": "Kriminalistika",
+    "question": "Rašysenos tyrimas leidžia:",
+    "options": [
+      "Nustatyti rašančiojo emocinę būseną ir psichologinį profilį",
+      "Nustatyti dokumento autentičkumą ir galimą klastojimą",
+      "Identifikuoti asmenį",
+      "Nustatyti rašymo vietą ir aplinkybes"
+    ],
+    "correct": 2,
+    "explanation": "Rašysena padeda nustatyti autorių."
+  },
+  {
+    "id": 29,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Kas yra referendumai?",
+    "options": [
+      "Teismo sprendimai",
+      "Įstatymų projektai",
+      "Savivaldybių sprendimai",
+      "Tautos tiesioginio valdymo forma"
+    ],
+    "correct": 3,
+    "explanation": "Referendumas – tiesioginės demokratijos forma."
+  },
+  {
+    "id": 17,
+    "category": "Mediacija",
+    "question": "Mediacijos metu šalys:",
+    "options": [
+      "Neturi teisių",
+      "Pačios priima sprendimą",
+      "Privalo laikytis mediatoriaus sprendimo",
+      "Neturi pasirinkimo"
+    ],
+    "correct": 1,
+    "explanation": "Sprendimą priima pačios šalys."
+  },
+  {
+    "id": 16,
+    "category": "Politologija",
+    "question": "Koks politinės sistemos identifikavimas buvo pateiktas Lietuvos Konstitucinio Teismo 1998 m. nutarime?",
+    "options": [
+      "Prezidentinė respublika",
+      "Grynai parlamentinė respublika",
+      "Parlamentinė respublika su kai kuriais mišriosios valdymo formos ypatumais",
+      "Pusiau prezidentinė respublika"
+    ],
+    "correct": 2,
+    "explanation": "Konstitucinis Teismas 1998 m. nutarime Lietuvą apibūdino kaip 'parlamentinę respubliką su kai kuriais mišriosios (pusiau prezidentinės) valdymo formos ypatumais'."
+  },
+  {
+    "id": 9,
+    "category": "Romėnų teisė",
+    "question": "Kuris iš šių teiginių apie vergus yra teisingas?",
+    "options": [
+      "Jie buvo piliečiai",
+      "Jie turėjo teisnumą",
+      "Jie buvo laikomi daiktais",
+      "Jie galėjo balsuoti"
+    ],
+    "correct": 2,
+    "explanation": "Vergai romėnų teisėje buvo laikomi daiktais."
+  },
+  {
+    "id": 20,
+    "category": "Tarptautinė teisė",
+    "question": "Diplomatinę veiklą reglamentuoja:",
+    "options": [
+      "Tik nacionalinės teisės normos",
+      "Tik tarptautinės sutartys",
+      "Tarptautinės ir nacionalinės teisės normos",
+      "Tik diplomatinis etiketas"
+    ],
+    "correct": 2,
+    "explanation": "Paskaitų medžiagoje aiškiai išskirtos dvi normų rūšys – tarptautinės ir nacionalinės."
+  },
+  {
+    "id": 23,
+    "category": "Teisėsaugos institucijos",
+    "question": "Kuris teiginys apie policijos ir prokuratūros santykį yra teisingas?",
+    "options": [
+      "Policija vadovauja prokuratūrai",
+      "Prokuratūra vadovauja policijos atliekamam ikiteisminiam tyrimui",
+      "Abi institucijos veikia visiškai nepriklausomai viena nuo kitos",
+      "Prokuratūra vykdo teismo sprendimus"
+    ],
+    "correct": 1,
+    "explanation": "Prokuratūra organizuoja ir kontroliuoja policijos tyrimą."
+  },
+  {
+    "id": 5,
+    "category": "Teismo posėdžiai",
+    "question": "Civiliniame procese šalys yra:",
+    "options": [
+      "Ieškovas ir atsakovas",
+      "Ieškovas, tretieji asmenys",
+      "Atsakovas, liudytojai",
+      "Teismas ir šalys"
+    ],
+    "correct": 0,
+    "explanation": "Pagrindinės šalys – ieškovas ir atsakovas."
+  },
+  {
+    "id": 22,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Kuris teiginys apie teisės sistemą yra teisingas?",
+    "options": [
+      "Teisės sistema yra atsitiktinių normų rinkinys",
+      "Teisės sistema yra nuosekli ir struktūruota normų visuma",
+      "Teisės sistema egzistuoja tik teorijoje",
+      "Teisės sistema neturi struktūros"
+    ],
+    "correct": 1,
+    "explanation": "Teisė sudaro struktūruotą sistemą."
+  },
+  {
+    "id": 11,
+    "category": "Valstybės tarnyba",
+    "question": "Valstybės tarnautojas privalo:",
+    "options": [
+      "Siekti pelno",
+      "Laikytis įstatymų",
+      "Ignoruoti taisykles",
+      "Dirbti tik sau"
+    ],
+    "correct": 1,
+    "explanation": "Pagrindinė pareiga – laikytis teisės aktų."
+  },
+  {
+    "id": 5,
+    "category": "Vartotojų teisės",
+    "question": "Nesąžininga komercinė veikla yra:",
+    "options": [
+      "Palyginimo tikslais pateikiama informacija apie konkurentų kainas",
+      "Verslo komunikacija, pagražinanti prekės savybes",
+      "Informaciniai pranešimai apie akcijų sąlygas",
+      "Klaidinanti ar agresyvi veikla vartotojų atžvilgiu"
+    ],
+    "correct": 3,
+    "explanation": "Tai klaidinimas ar spaudimas vartotojui."
+  },
+  {
+    "id": 15,
+    "category": "Civilinė teisė",
+    "question": "Netesybos gali būti užtikrintos:",
+    "options": [
+      "Pinigais, prievolės procentu.",
+      "Pinigais arba daiktais.",
+      "Daiktais arba prievolės procentu.",
+      "Tik teismo sprendimu nustatyta pinigų suma."
+    ],
+    "correct": 0,
+    "explanation": "Netesybų nustatymo būdai – konkreti pinigų suma arba užtikrinamosios prievolės sumos procentas."
+  },
+  {
+    "id": 17,
+    "category": "Korupcijos kontrolė",
+    "question": "Kuri sritis laikoma labiausiai pažeidžiama korupcijai?",
+    "options": [
+      "Viešieji pirkimai ir infrastruktūros projektai",
+      "Sveikatos apsauga",
+      "Teisingumo ir prokuratūros sistema",
+      "Finansų reguliavimas ir bankininkystė"
+    ],
+    "correct": 1,
+    "explanation": "Dažnai minima kaip viena labiausiai korumpuotų sričių."
+  },
+  {
+    "id": 4,
+    "category": "Tarptautinė teisė",
+    "question": "Kas turi teisę sudaryti tarptautines sutartis?",
+    "options": [
+      "Tik valstybės",
+      "Valstybės, tarptautinės organizacijos ir Europos Bendrija",
+      "Tik ministerijos",
+      "Tik tarptautiniai teismai"
+    ],
+    "correct": 1,
+    "explanation": "Testų analizėje būtent taip išskirti subjektai, galintys sudaryti tarptautines sutartis."
+  },
+  {
+    "id": 52,
+    "category": "Baudžiamoji teisė",
+    "question": "Ką numato šanso principas baudžiamojoje teisėje?",
+    "options": [
+      "Kiekvienam asmeniui garantuojama teisė į pakartotinį teismo procesą",
+      "Asmuo negali būti teisiamas du kartus už tą pačią veiką",
+      "Bausmė visada turi būti ne griežtesnė nei sankcijoje numatytas vidurkis",
+      "Asmeniui, pirmą kartą padariusiam nusikalstamą veiką, suteikiama galimybė atleisti nuo bausmės ar baudžiamosios atsakomybės"
+    ],
+    "correct": 3,
+    "explanation": "Šanso principas numato, kad asmeniui, pirmą kartą padariusiam nusikalstamą veiką, baudžiamoji teisė suteikia galimybę atleisti nuo bausmės ar baudžiamosios atsakomybės."
+  },
+  {
+    "id": 5,
+    "category": "Tarptautinė teisė",
+    "question": "Lietuvos Respublikos tarptautinėmis sutartimis nelaikomi tarptautiniai susitarimai, sudaryti:",
+    "options": [
+      "Valstybių vardu",
+      "Tarptautinių organizacijų vardu",
+      "Ministerijų ir Vyriausybės įstaigų",
+      "Respublikos Prezidento vardu"
+    ],
+    "correct": 2,
+    "explanation": "Testų analizėje nurodyta, kad ministerijų ir Vyriausybės įstaigų susitarimai nelaikomi LR tarptautinėmis sutartimis."
+  },
+  {
+    "id": 33,
+    "category": "Lietuvos konstitucinė teisė",
+    "question": "Konstitucinės teisės dalykas yra:",
+    "options": [
+      "Privatiniai santykiai",
+      "Verslo santykiai",
+      "Valstybės organizacija ir žmogaus teisės",
+      "Civiliniai ginčai"
+    ],
+    "correct": 2,
+    "explanation": "Ji reguliuoja valstybės struktūrą ir žmogaus teises."
+  },
+  {
+    "id": 28,
+    "category": "Egzaminų klausimai",
+    "question": "Ką daro teismas, jei nepavyksta įrašyti proceso garso įrašo?",
+    "options": [
+      "Nutraukia bylą",
+      "Priima nutartį pakartoti veiksmą",
+      "Ignoruoja situaciją",
+      "Perduoda bylą kitam teismui"
+    ],
+    "correct": 1,
+    "explanation": "Teismas gali nutarti pakartoti procesinį veiksmą."
+  },
+  {
+    "id": 4,
+    "category": "Valstybės ir teisės teorija",
+    "question": "Hipotezė teisės normoje reiškia:",
+    "options": [
+      "Elgesio taisyklę",
+      "Taikymo sąlygas",
+      "Baudą",
+      "Teismo sprendimą"
+    ],
+    "correct": 1,
+    "explanation": "Hipotezė nurodo kada norma taikoma."
+  }
+]
