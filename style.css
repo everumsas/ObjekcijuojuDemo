@@ -133,6 +133,39 @@ body {
   margin-top: 10px;
 }
 
+.purchase-card {
+  margin-top: 22px;
+  padding: 18px;
+  border-radius: 18px;
+  border: 1px solid #e6dcc9;
+  background: linear-gradient(180deg, #fffdf8 0%, #f8f1e6 100%);
+}
+
+.purchase-title {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.purchase-price {
+  margin-top: 6px;
+  font-size: 34px;
+  line-height: 1;
+  font-weight: 800;
+  color: var(--accent);
+}
+
+.purchase-text {
+  margin-top: 10px;
+}
+
+.contact-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
 .load-status {
   min-height: 24px;
   margin: 10px 0 0;
